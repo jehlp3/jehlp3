@@ -28,7 +28,7 @@
 
 <div align="left">
 • Santander Bootcamp 2024 (Em curso)<br>
-• CCNA: Introduction to Networks - Cisco (Em curso)<br>
+• CCNA: Introduction to Networks - Cisco <br>
 • Endpoint Security - Cisco<br>
 • Cybersecurity Fundamentals - IBM<br>
 • AWS Cloud Foundations - AWS<br>
