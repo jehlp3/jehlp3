@@ -27,7 +27,8 @@
 <h2 align="left"> 📖 Cursos e Bootcamps </h2>
 
 <div align="left">
-• Santander Bootcamp 2024 (Em curso)<br>
+- Network Security - Cisco (Em andamento) <br>
+• Santander Bootcamp 2024 <br>
 • CCNA: Introduction to Networks - Cisco <br>
 • Endpoint Security - Cisco<br>
 • Cybersecurity Fundamentals - IBM<br>
