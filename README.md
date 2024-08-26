@@ -1,7 +1,7 @@
 ### <h1 align="left" style="color: #EB9326">Hi, I'm Jéssica   🦉</h1> 
 
 
-<p align="left">Graduanda em Análise e Desenvolvimento de Sistemas pela Fatec Zona Sul / Undergraduate student in Systems Analysis and Development at Fatec Zona Sul.</p>
+<p align="left">Graduanda em Análise e Desenvolvimento de Sistemas pela Fatec Zona Sul / Undergraduate student in analysis and systems development at Fatec Zona Sul.</p>
 
 
 
